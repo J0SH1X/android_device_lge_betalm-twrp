@@ -18,8 +18,8 @@
 
 set -e
 
-DEVICE=cepheus
-VENDOR=xiaomi
+DEVICE=betalm
+VENDOR=lge
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"

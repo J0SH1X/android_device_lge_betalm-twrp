@@ -18,8 +18,8 @@
 
 set -e
 
-DEVICE=cepheus
-VENDOR=xiaomi
+DEVICE=betalm
+VENDOR=lge
 
 INITIAL_COPYRIGHT_YEAR=2019
 
